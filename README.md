@@ -1,7 +1,7 @@
 # Paellu Bio
 
 - 👋 Hi, [I’m Paellu](elwinplum@gmail.com).
-- 💼 Moonlighting Coder
+- 💼 Developer / Programmer / Debugger
 
 💬 What started as a simple hobby to de-stress turned into one of my greatest passion.
 Creating, learning, experimenting and improving became my motivations to learn to code.
